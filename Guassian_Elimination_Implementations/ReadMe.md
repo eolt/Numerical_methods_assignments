@@ -2,9 +2,9 @@
 The implementations are of Guassian Elimination with partial pivoting and GE without partial pivoting. The programs are tested using the matlab files: Practice_1 and Practice_2.
 
 Both files call the initalize_matrix.m file, which generates a 1000 x 1000 matrix of random numbers and a 1000 x 1 matrix of ones. 
-The Guassian Elimination finds our constants x for our matrix A and B, so that Ax = B.
+The Guassian Elimination finds our constants x for our matrices A and B, so that Ax = B.
 
-The practices filed will output the mean square and square root errors of calculation in both single and double precison. 
+The practices will output the mean square and square root errors of calculation in both single and double precison. 
 
 ## Practice_1.m
 (without Partial Pivot)
