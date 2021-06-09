@@ -43,3 +43,6 @@ mean squared error =   5.6280e-26
 
 square root thereof =   2.3723e-13
 ```
+
+# Conclusion 
+From these observations, our findings verify that partial pivot gives a more accurate result than without it for Guassian Elimination. The take away is that partial pivoting takes a lot longer to compute.  
