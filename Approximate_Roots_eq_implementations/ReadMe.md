@@ -92,4 +92,4 @@ convergence
 
 # Conclusion
 The method with the least number of steps to converge is the Newton's method with 5 steps. The method with the most steps is the Bisection method with 48 steps. 
-The rest follow in order of most to fewer steps: Falsi (22 steps), Modified Falsi (9 steps), Secant (8 steps). Bisection method suffers from being the simplest method to implement. Newton's method proves to be the best for this example of finding approximate roots, the only take away is that we have to know the deriviation of the equation to implement it.
+The rest follow in order of most to fewer steps: Falsi (22 steps), Modified Falsi (9 steps), Secant (8 steps). Bisection method suffers from being the simplest method to implement. Newton's method proves to be the best for this example, the take away is we have to know the deriviation of the equation beforehand to implement it.
