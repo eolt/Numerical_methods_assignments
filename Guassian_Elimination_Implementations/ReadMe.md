@@ -45,4 +45,4 @@ square root thereof =   2.3723e-13
 ```
 
 # Conclusion 
-From these observations, our findings verify that partial pivot gives a more accurate result than without it for Guassian Elimination. The take away is that partial pivoting takes a lot longer to compute.  
+From these observations, our findings verify that partial pivot gives a more accurate result than without it for Guassian Elimination. The take away is that partial pivoting gives longer elapsed time. Thus, one must decides the incentives of achieving a more accurate result over a quicker computation when selecting either method.  
