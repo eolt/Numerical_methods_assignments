@@ -1,7 +1,7 @@
 % Function implemented by the psuedocode in textbook: "Numerical Mathematics and Computing"
 %   by E. Ward Cheney, David R. Kincai. 
 
-% The inputs of bisection function are tht f(x) equation,
+% The inputs of bisection function are the f(x) equation,
 % the lower bound a, upper bound b, and the error
 
 function Bisection(f, a, b, e)
